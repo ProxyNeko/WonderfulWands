@@ -1,0 +1,46 @@
+{
+  "homepage": "http://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes",
+  "promos": {
+    "1.12.2-latest": "3.0.0",
+    "1.11.2-latest": "2.3.0",
+    "1.10.2-latest": "2.2.0",
+    "1.9.4-latest": "2.1.0",
+    "1.9-latest": "2.0.0",
+    "1.8.9-latest": "1.8.0",
+    "1.8-latest": "1.7.2",
+    "1.7.10-latest": "1.4.2",
+
+    "1.12.2-recommended": "3.0.0",
+    "1.11.2-recommended": "2.3.0",
+    "1.10.2-recommended": "2.2.0",
+    "1.9.4-recommended": "2.1.0",
+    "1.9-recommended": "2.0.0",
+    "1.8.9-recommended": "1.8.0",
+    "1.8-recommended": "1.7.2",
+    "1.7.10-recommended": "1.4.2"
+  },
+  "1.12.2": {
+    "3.0.0": "No Release Yet"
+  },
+  "1.11.2": {
+    "2.3.0": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2529832"
+  },
+  "1.10.2": {
+    "2.2.0": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2323107"
+  },
+  "1.9.4": {
+    "2.1.0": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2304005"
+  },
+  "1.9": {
+    "2.0.0": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2294772"
+  },
+  "1.8.9": {
+    "1.8.0": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2276607"
+  },
+  "1.8": {
+    "1.7.2": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2276606"
+  },
+  "1.7.10": {
+    "1.4.2": "https://minecraft.curseforge.com/projects/drcyanos-wonderful-wands-wizarding-robes/files/2276604"
+  }
+}

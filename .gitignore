@@ -9,6 +9,7 @@
 /output
 
 #ForgeGradle
+/classes/*
 /build
 /.gradle
 /eclipse/assets
